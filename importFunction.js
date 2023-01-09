@@ -1,3 +1,3 @@
-const sum = require("./exportFunction");
+const message = require("./exportFunction");
 
-console.log(sum(3, 3));
+console.log(message());
